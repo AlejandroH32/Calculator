@@ -1,0 +1,7 @@
+C:\Users\khern\OneDrive\Escritorio\proyectos\Sistema_proyecto_2023\Sistema_proyecto_2023\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\khern\OneDrive\Escritorio\proyectos\Sistema_proyecto_2023\Sistema_proyecto_2023\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\khern\OneDrive\Escritorio\proyectos\Sistema_proyecto_2023\Sistema_proyecto_2023\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\khern\OneDrive\Escritorio\proyectos\Sistema_proyecto_2023\Sistema_proyecto_2023\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\khern\OneDrive\Escritorio\proyectos\Sistema_proyecto_2023\Sistema_proyecto_2023\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\khern\OneDrive\Escritorio\proyectos\Sistema_proyecto_2023\Sistema_proyecto_2023\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\khern\OneDrive\Escritorio\proyectos\Sistema_proyecto_2023\Sistema_proyecto_2023\Calculator\Calculator\obj\Debug\Calculator.pdb
